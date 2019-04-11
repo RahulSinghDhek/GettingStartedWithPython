@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AngularJS/.idea/AngularJS.iml" filepath="$PROJECT_DIR$/../AngularJS/.idea/AngularJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BeautifulShop/.idea/BeautifulShop.iml" filepath="$PROJECT_DIR$/../BeautifulShop/.idea/BeautifulShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BootstrapBasics/.idea/BootstrapBasics.iml" filepath="$PROJECT_DIR$/../BootstrapBasics/.idea/BootstrapBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodeAcademy/.idea/CodeAcademy.iml" filepath="$PROJECT_DIR$/../CodeAcademy/.idea/CodeAcademy.iml" />
+      <module fileurl="file://$USER_HOME$/Django/.idea/Django.iml" filepath="$USER_HOME$/Django/.idea/Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask/.idea/Flask.iml" filepath="$PROJECT_DIR$/../Flask/.idea/Flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hackerrank/.idea/Hackerrank.iml" filepath="$PROJECT_DIR$/../Hackerrank/.idea/Hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterviewQuestions/.idea/InterviewQuestions.iml" filepath="$PROJECT_DIR$/../InterviewQuestions/.idea/InterviewQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonCSRTraining/.idea/PythonCSRTraining.iml" filepath="$PROJECT_DIR$/../PythonCSRTraining/.idea/PythonCSRTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonCodes.iml" filepath="$PROJECT_DIR$/.idea/PythonCodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonOOPsTrainingDay1/.idea/PythonOOPsTrainingDay1.iml" filepath="$PROJECT_DIR$/../PythonOOPsTrainingDay1/.idea/PythonOOPsTrainingDay1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SPOJ/.idea/SPOJ.iml" filepath="$PROJECT_DIR$/../SPOJ/.idea/SPOJ.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/ScrapyProject/.idea/ScrapyProject.iml" filepath="$USER_HOME$/Documents/ScrapyProject/.idea/ScrapyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StackOverflow/.idea/StackOverflow.iml" filepath="$PROJECT_DIR$/../StackOverflow/.idea/StackOverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestCharts/.idea/TestCharts.iml" filepath="$PROJECT_DIR$/../TestCharts/.idea/TestCharts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../W3CSS/.idea/W3CSS.iml" filepath="$PROJECT_DIR$/../W3CSS/.idea/W3CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bootstrap/.idea/bootstrap.iml" filepath="$PROJECT_DIR$/../bootstrap/.idea/bootstrap.iml" />
+    </modules>
+  </component>
+</project>
